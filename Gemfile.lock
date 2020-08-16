@@ -17,7 +17,7 @@ GEM
       puppetlabs_spec_helper (~> 0.4)
       rspec-puppet (~> 0.1)
     diff-lcs (1.2.4)
-    facter (1.7.1)
+    facter (1.7.6)
     faraday (0.8.7)
       multipart-post (~> 1.1)
     faraday_middleware (0.9.0)
